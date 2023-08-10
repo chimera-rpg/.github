@@ -1,6 +1,8 @@
 # Chimera RPG
 Chimera is a work-in-progress multiplayer RPG written in Go. It is intended to be easy to make content for, including new graphics, objects, and maps. It is styled using low-resolution/pixel art so as to expedite easy graphics creation.
 
+![Client Screenshot 23/08/09](https://raw.githubusercontent.com/chimera-rpg/.github/main/profile/screenshot-230809.png)
+
 The current complete features:
   * Tile-based in three dimensions!
   * Client/Server
